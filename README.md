@@ -1,6 +1,6 @@
 # scrutinium
 
-Structured legal examination and practice question bank. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/scrutinium
 
